@@ -11,6 +11,7 @@ and open the template in the editor.
     <body>
         <?php
         echo "hello world";
+        $link =new mysqli("localhost","root","root","new_db");
         ?>
     </body>
 </html>
