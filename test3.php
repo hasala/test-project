@@ -10,7 +10,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "hello world";
+        echo "hello world welcome to smart git";
         $link =new mysqli("localhost","root","root","new_db");
         
         if(!isset($link))
