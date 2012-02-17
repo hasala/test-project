@@ -14,7 +14,7 @@ and open the template in the editor.
         echo $name;
 <<<<<<< HEAD
 =======
-
+	echo "Test";
         echo "Hello  $name";
 
 >>>>>>> 724312e4d6fe96b30d5950bcad0a0ef5b89a1b2e
