@@ -14,7 +14,6 @@ and open the template in the editor.
         echo $name;
 <<<<<<< HEAD
 	echo "Hello World"
-	// this file was edited locally;
 =======
         echo "Hello  $name";
 >>>>>>> 6defc05c0871be4bbaaef47689ab2b69a697d729
