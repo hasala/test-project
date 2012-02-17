@@ -12,7 +12,11 @@ and open the template in the editor.
    <?php
         $name=$_POST['name'];
         echo $name;
+<<<<<<< HEAD
 	echo "Hello World"
+=======
+        echo "Hello  $name";
+>>>>>>> 6defc05c0871be4bbaaef47689ab2b69a697d729
 ?>
 <form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
    <input type="text" name="name"><br>
