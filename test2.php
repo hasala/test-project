@@ -13,6 +13,7 @@ and open the template in the editor.
         $name=$_POST['name'];
         echo $name;
         echo "Hello  $name";
+        //this file has been edited on the web
 ?>
 <form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
    <input type="text" name="name"><br>
